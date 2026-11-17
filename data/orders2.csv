@@ -1,0 +1,5 @@
+order_id,status,quantity,unit_price,order_date
+001,paid,2,10.00,2026-11-01
+002,pending,3,5.00,2026-11-01
+003,refunded,1,12.00,2026-11-01
+004,paid,bad,8.00,2026-11-01
