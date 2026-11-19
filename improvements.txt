@@ -1,0 +1,2 @@
+- allow for data input to be given as arguement
+- refactor code with industry standard design
